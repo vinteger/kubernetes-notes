@@ -2,6 +2,7 @@
 
 ### Speed and security:
 - labels and annotations
+	- Allow for faster querying
 ### Scan for CVs(?)
 ### k8s best practices
 - Always upgrade
