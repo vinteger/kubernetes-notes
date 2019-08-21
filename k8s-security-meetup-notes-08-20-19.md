@@ -22,10 +22,10 @@
 	- Specifed in the YAML
 - Cluster-wide Pod Security Policy
 	- Admission Control
-	- ie. you can block privileged mode, host networking, or containers running as root.
+	- eg. you can block privileged mode, host networking, or containers running as root.
 - Harden Node Security
 	- Ensure the host is secure and configured correctly
-	- Control network access to sensitive ports (ie. 10250 & 10255)
+	- Control network access to sensitive ports (eg. 10250 & 10255)
 	- Minimize admin access to Kubernetes nodes
 - Audit Logging
 	- Make sure these are enabled in case something happens
